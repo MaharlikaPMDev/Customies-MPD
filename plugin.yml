@@ -1,0 +1,17 @@
+name: Customies
+description: A Customies private modified version
+
+main: customiesdevs\customies\Customies
+src-namespace-prefix: customiesdevs\customies
+version: 1.2.2
+api: 5.0.0
+
+authors:
+  - DenielWorld
+  - TwistedAsylumMC
+
+contributors:
+  - CODEEEH
+  - JackNoordhuis
+  - Unickorn
+  - abimek
